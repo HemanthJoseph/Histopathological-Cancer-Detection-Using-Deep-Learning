@@ -150,7 +150,7 @@ significant improvement and the jitter during training is
 reduced.
 >|Model|Summary Plot|
 >|:-:|:-:|
->|Model Area Under the Curve|![AUC Plot](./images/Model_AUC.png)|
+>|Model Area Under the Curve|![AUC Plot](./images/Model_auc.png)|
 >|Model Accuracy|![Accuracy Plot](./images/Model_Accuracy.png)|
 >|Model Loss|![Loss Plot](./images/Model_Loss.png)|
 
